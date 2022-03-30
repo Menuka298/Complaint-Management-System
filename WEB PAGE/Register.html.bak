@@ -1,0 +1,98 @@
+<html>
+	<head>
+	
+
+	
+	
+	
+	</head>
+		<body>
+				<h1>Police complaint Manegment System</h1> <br>
+				<img src="C:\Users\sachi\OneDrive\Desktop\WEB PAGE\images\Logo.png" alt="logo" width="400" align="center">
+				
+				<h2>REGISTER</h2>
+				
+				
+						<!__Menu Bar__>
+				
+					<ul>
+			
+			<li>
+			<a href="file:///C:/Users/sachi/OneDrive/Desktop/WEB%20PAGE/HOME.html" target="_blank">Home		</a>
+			</li>
+			
+			
+			
+			
+			
+			</ul>
+			
+			
+			
+			
+				
+				<br>
+				
+				
+						<form action="file:///C:/Users/sachi/OneDrive/Desktop/WEB%20PAGE/Complain.html">				<!__eneter Php Link__>
+						
+										<lable>  Name :  </lable>		<input type="text" placeholder="Full name" required>		<br><br>
+						
+						
+						
+										<lable>NIC Number :  </lable>		<input type="text" placeholder="xxxxxxxxxxxxx" required>			<br><br>
+						
+						
+										<lable>Age :  </lable>		<input type="text" placeholder="type age" required> <br><br>
+						
+										<lable>
+														Select Gender	
+																			</label>
+													
+													
+													<br>
+													
+												
+										<lable>Male </lable>		 <input type="radio" name="gender"required> <br>
+										<lable>Female </lable>	<input type="radio"		name="gender"required> <br>
+						
+						
+								<br>
+						
+										<lable>Your Disctrict    </lable>  
+						
+																			<select id="district" required>
+																											<option>Kandy</option>
+																											<option selected> Colombo</option>
+																											<option>Matale</option>
+																											<option>Kurunagala</option>
+																											<option>Kaluthara</option>
+																											<option>Nuwaraeliya</option>
+																											<option>jaffna</option>
+																											<option>Galley</option>
+																											<option>Hambanthota</option>
+																																					</select>
+							<br>
+							<br>
+							<br>
+								
+													<input type="submit" value="Submit">	<input type="reset" value="Clear">		
+
+															
+						</form>
+						
+						
+						
+						
+						
+						
+						
+						
+				
+		
+		</body>
+
+
+
+
+</html>

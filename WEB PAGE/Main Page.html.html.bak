@@ -1,0 +1,63 @@
+<html>
+	<head>
+	
+	
+	
+	
+	</head>
+			<body>
+				
+				<h1>Police Complain Manegment System</h1>
+				
+				<form>
+				
+				<label>Username</label> <input type="text">		<br>
+				<label>Password</lable> <input type="password"> <br>
+				<br>
+				<br>
+						<input type="submit" value="OK">	<input type="reset" value="RESET">
+				</form>
+				
+				
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

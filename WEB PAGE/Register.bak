@@ -1,0 +1,47 @@
+<html>
+	<head>
+	
+
+	
+	
+	
+	</head>
+		<body>
+				<h1 align="center">Police Complain Manegment System</h1> <br>
+				<img align="center" src="C:\Users\sachi\OneDrive\Desktop\WEB PAGE\images\Logo.png" alt="logo" width="400">
+				
+				<br>
+				
+				
+						<form>			<!__eneter Php Link__>
+						
+						<lable>Full Name :  </lable>		<input type="text">		<br><br>
+						
+						
+						
+						<lable>NIC Number :  </lable>		<input type="text">			<br><br>
+						
+						
+						<lable>Age</lable>		<input type="text"> <br><br>
+						
+						<lable>
+									Select Gender	
+													</label>
+													
+													
+													<br>
+													
+												
+						<lable>Male </lable> <input type="radio">
+						
+						
+						
+						
+				
+		
+		</body>
+
+
+
+
+</html>

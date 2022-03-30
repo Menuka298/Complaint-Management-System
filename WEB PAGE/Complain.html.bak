@@ -1,0 +1,143 @@
+<html>
+	<head>
+	
+
+	
+	
+	
+	</head>
+		<body>
+		
+		
+		<h1>Police complaint Manegment System</h1> <br>
+		<img src="C:\Users\sachi\OneDrive\Desktop\WEB PAGE\images\Logo.png" alt="logo" width="400" align="center">
+		
+		<h2>ENTER YOUR COMPLAIN</h2>
+			<form action="file:///C:/Users/sachi/OneDrive/Desktop/WEB%20PAGE/Reply%20pAGE.HTML">
+			
+			
+				<lable>Select your disctrict</lable>
+				
+				
+					<select value="selectyour dsitrcit" required>
+				 
+						<option value="kandy">Kandy</option>
+						<option selected> Colombo</option>
+						<option>Matale</option>
+						<option>Kurunagala</option>
+						<option>Kaluthara</option>
+						<option>Nuwaraeliya</option>
+						<option>jaffna</option>
+						<option>Galley</option>
+						<option>Hambanthota</option>
+						
+					</select>
+					
+					
+					<br>
+					<br> 
+					
+					
+				
+				<lable>Select your Police Satation</lable>
+							
+					<select required>
+				 
+										<option value="kandy">Kandy</option>
+										<option selected> Colombo</option>
+										<option>Matale</option>
+										<option>Kurunagala</option>
+										<option>Kaluthara</option>
+										<option>Nuwaraeliya</option>
+										<option>jaffna</option>
+										<option>Galley</option>
+										<option>Hambanthota</option>
+						
+					</select>
+					
+					<br>
+					<br>
+					
+					
+					
+				<lable>Select your Complain Catogory</lable>
+							
+						<select>
+				 
+								<option selected>Abuse of Women Or Children</option>
+								<option> Colombo</option>
+								<option>Matale</option>
+								<option>Kurunagala</option>
+								<option>Kaluthara</option>
+								<option>Nuwaraeliya</option>
+								<option>jaffna</option>
+								<option>Galley</option>
+								<option>Hambanthota</option>
+						
+					</select>
+					
+					<br>
+					<br>
+					
+				<lable>Name :  </lable>		<input type="text" placeholder="Full name" required>	
+				
+				<br>
+				<br>
+				
+				<lable>Telephone Number</lable> <input type="text" placeholder="07X-xxx-xxxx" required>
+
+				<br>
+				<br>
+				
+				
+				
+				<lable>Email address </lable> <input type="text" placeholder="_________@example.com" required>
+				
+				
+				<br>
+				<br>
+				
+				
+				
+				<lable>Address</lable> <br>	
+				
+				<textarea cols="30" rows="3" maxlength="50" required>   </textarea>
+				
+				<br>
+				<br>
+				
+				<lable>Enter the comlpain</lable>
+				
+				<br>
+				
+					<textarea cols="100" rows="10" required> </textarea>
+				
+				<br>
+				<br>
+				
+				<lable> Attachment (If you have any document or image related to the complaint, Please attach to this complaint. Maximum attachment size is 5MB. )</label>
+				
+				<br>
+				
+				<input type="file" name="attachment file">
+				
+				<br>
+				<br>
+			
+			<input type="submit"> <input type="reset" value="Clear all entries">
+			
+			</form>
+			
+			
+				
+			
+		
+		
+		
+		
+		</body>
+
+
+
+
+</html>
